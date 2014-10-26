@@ -24,3 +24,16 @@ proguard/
 
 # Log Files
 *.log
+
+# Eclipse project files
+.classpath
+.settings
+
+# Intellij project files
+.iml
+.ipr
+.iws
+.idea
+
+#custom
+.apt_generated
